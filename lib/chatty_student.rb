@@ -1,4 +1,4 @@
-
+require_
 class ChattyStudent < Student 
   
   def hello
